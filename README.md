@@ -27,6 +27,28 @@
 
 ---
 
+## 🚀 PROJECTS
+
+👉 **LeetCode Java Solutions**  
+🔗 https://github.com/PRIYDARSHANGLBITM/leetcode_solution
+
+👉 **CDC Problem Solutions**  
+🔗 https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions
+
+👉 **Library Management System**  
+🔗 https://github.com/PRIYDARSHANGLBITM/LibraryManagementSystem
+
+👉 **Car Rental System**  
+🔗 https://github.com/PRIYDARSHANGLBITM/Carrental
+
+👉 **Portfolio Website**  
+🔗 https://github.com/PRIYDARSHANGLBITM/priydarshan-portfolio
+
+👉 **E-Commerce Website (Pickle Store)**  
+🔗 https://github.com/PRIYDARSHANGLBITM/GAVAI-SWAD-ONLINE-PICKLE-STORE-E-COMMERCE
+
+---
+
 ## 📊 Tech Stack
 
 - **Languages:** Java, JavaScript  

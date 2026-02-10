@@ -1,4 +1,4 @@
-## Hi, I'm Priy Darshan 👋
+## Hi, I'm PRIY DARSHAN 👋
 
 🎓 Computer Science Student  
 💻 Java | DSA | LeetCode  

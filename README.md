@@ -48,6 +48,24 @@
 🔗 https://github.com/PRIYDARSHANGLBITM/GAVAI-SWAD-ONLINE-PICKLE-STORE-E-COMMERCE
 
 ---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=PRIYDARSHANGLBITM&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="150"/>
+</p>
+
+---
+
+
 
 ## 📊 Tech Stack
 

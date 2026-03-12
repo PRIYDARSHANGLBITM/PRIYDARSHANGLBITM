@@ -29,12 +29,6 @@
 
 ## 🚀 PROJECTS
 
-👉 **LeetCode Java Solutions**  
-🔗 https://github.com/PRIYDARSHANGLBITM/leetcode_solution
-
-👉 **CDC Problem Solutions**  
-🔗 https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions
-
 👉 **Library Management System**  
 🔗 https://github.com/PRIYDARSHANGLBITM/LibraryManagementSystem
 
@@ -80,21 +74,11 @@
 
 ---
 
-## 📈 GitHub Activity (Auto Update)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show_icons=true&theme=tokyonight)
-
-📚 Regular LeetCode & DSA practice
----
-
-## 📈 GitHub Activity
-
-- 🔥 390+ contributions last year  
-- 📚 Regular LeetCode & DSA practice
-
-- ## 📊 GitHub Activity Graph (Auto Update)
+## 📊 GitHub Activity Graph (Auto Update)
 
 ![Priyadarshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM&theme=tokyo-night)
+
+📚 Regular LeetCode & DSA practice
 
 ---
 

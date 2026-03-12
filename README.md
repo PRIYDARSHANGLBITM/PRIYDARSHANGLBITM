@@ -80,6 +80,13 @@
 
 ---
 
+## 📈 GitHub Activity (Auto Update)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show_icons=true&theme=tokyonight)
+
+📚 Regular LeetCode & DSA practice
+---
+
 ## 📈 GitHub Activity
 
 - 🔥 390+ contributions last year  

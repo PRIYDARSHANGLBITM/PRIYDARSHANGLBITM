@@ -85,6 +85,10 @@
 - 🔥 390+ contributions last year  
 - 📚 Regular LeetCode & DSA practice
 
+- ## 📊 GitHub Activity Graph (Auto Update)
+
+![Priyadarshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM&theme=tokyo-night)
+
 ---
 
 ## 👀 Profile Visitors (Auto Update)

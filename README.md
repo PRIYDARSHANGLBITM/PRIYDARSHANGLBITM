@@ -45,10 +45,11 @@
 🔗 https://github.com/PRIYDARSHANGLBITM/priydarshan-portfolio
 
 👉 **E-Commerce Website (Pickle Store)**  
-🔗 https://github.com/PRIYDARSHANGLBITM/GAVAI-SWAD-ONLINE-PICKLE-STORE-E-COMMERCE
+🔗 https://github.com/PRIYDARSHANGLBITM/GAVAI-SWAD-ONLINE-PICKLE-STORE-E_COMMERCE
 
 ---
-## 📈 GitHub Stats
+
+## 📈 GitHub Stats (Auto Update)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
@@ -65,7 +66,11 @@
 
 ---
 
+## 🧠 LeetCode Stats (Auto Update)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo)
+
+---
 
 ## 📊 Tech Stack
 
@@ -76,8 +81,21 @@
 ---
 
 ## 📈 GitHub Activity
-- 390+ contributions last year  
-- Regular LeetCode & DSA practice
+
+- 🔥 390+ contributions last year  
+- 📚 Regular LeetCode & DSA practice
+
+---
+
+## 👀 Profile Visitors (Auto Update)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=PRIYDARSHANGLBITM&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+## 🐍 GitHub Contribution Snake (Auto Update)
+
+![snake gif](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

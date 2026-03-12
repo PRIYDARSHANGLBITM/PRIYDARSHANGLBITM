@@ -68,7 +68,7 @@
 
 ## 🧠 LeetCode Stats (Auto Update)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/priydarshan197358?theme=dark&font=baloo)
 
 ---
 

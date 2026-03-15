@@ -136,7 +136,7 @@
 🔗 https://github.com/PRIYDARSHANGLBITM/priydarshan-portfolio  
 
 👉 **E-Commerce Website (Pickle Store)**  
-🔗 https://github.com/PRIYDARSHANGLBITM/GAVAI-SWAD-ONLINE-PICKLE-STORE-E-COMMERCE  
+🔗 https://github.com/PRIYDARSHANGLBITM/GAVAI-SWAD-ONLINE-PICKLE-STORE-E_COMMERCE  
 
 ---
 

@@ -86,7 +86,15 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=PRIYDARSHANGLBITM&label=Profile%20Views&color=0e75b6&style=flat)
 
----  -->
+---  
+⭐ *Consistency beats intensity.*
+
+## 🐍 GitHub Contribution Snake (Auto Update)
+
+![snake gif](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/blob/output/github-contribution-grid-snake.svg)
+
+---`
+-->
 ## Hi, I'm PRIY DARSHAN 👋
 
 🎓 Computer Science Student  
@@ -183,12 +191,6 @@
 
 ---
 
-⭐ *Consistency beats intensity.*
 
-## 🐍 GitHub Contribution Snake (Auto Update)
-
-![snake gif](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐ *Consistency beats intensity.*

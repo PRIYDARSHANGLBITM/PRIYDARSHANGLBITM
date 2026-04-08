@@ -98,12 +98,25 @@
 
 ---
 
+
 ## 🌐 Connect With Me
 
-<p>
-<a href="https://github.com/PRIYDARSHANGLBITM">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+<p align="center">
+  <a href="https://github.com/PRIYDARSHANGLBITM" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/priydarshan12345/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/priydarshan12345/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.instagram.com/priydarshan_12345/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="mailto:priydarshan12345@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---

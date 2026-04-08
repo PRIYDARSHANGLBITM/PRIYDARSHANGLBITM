@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm PRIY DARSHAN</h1>
 <h3 align="center">💻 Java | DSA | Problem Solving Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PRIYDARSHANGLBITM&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
@@ -111,7 +108,7 @@
 
 ---
 
-⭐ **"Consistency + DSA = Placement 🔥"**
+
 
 
 
@@ -170,13 +167,6 @@
 
 ---
 
-## 📊 Tech Stack
-
-- **Languages:** Java, JavaScript  
-- **Web:** HTML, CSS  
-- **Tools:** Git, GitHub, VS Code  
-
----
 
 ## 📊 GitHub Activity Graph (Auto Update)
 
@@ -198,7 +188,5 @@
 
 ---
 
-
-
-⭐ *Consistency beats intensity.*
+⭐ **"Consistency + DSA = Placement 🔥"**
 

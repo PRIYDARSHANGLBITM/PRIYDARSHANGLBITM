@@ -79,6 +79,22 @@
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </p>
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Servlet-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"/>
+</p>
 
 ---
 

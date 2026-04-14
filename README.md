@@ -4,6 +4,27 @@
 
 ---
 
+## 📄 Resume
+
+📥 [Download Resume](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf)
+
+---
+
+<p align="center">
+  <a href="https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Enthusiast;Backend+Engineer;Problem+Solver" />
+</p>
+
+---
+
+
 ## 🚀 About Me
 
 - 🎓 Computer Science Student  
@@ -83,11 +104,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Enthusiast;Backend+Engineer;Problem+Solver" />
-</p>
 
----
 
 ## 📈 GitHub Stats (Auto Update)
 

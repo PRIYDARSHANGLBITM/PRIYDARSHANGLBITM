@@ -1,10 +1,20 @@
 <h1 align="center">Hi 👋, I'm Priy Darshan</h1>
-<h3 align="center">💻 Java Backend Developer | DSA Problem Solver</h3>
+<h3 align="center">💻 Java | Backend | DSA Enthusiast</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Backend+Engineer;DSA+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Backend+Engineer;DSA+Problem+Solver" />
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -12,15 +22,25 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science Student  
-- 💡 Strong in **DSA & Problem Solving**  
+- 💡 Strong in **DSA & Clean Code**  
 - 🔥 Active on **LeetCode**  
-- ⚡ Focus: **Java | Backend | System Design (Learning)**  
+- ⚡ Focus: **Java + Backend Development**  
 
 ---
 
-## 📄 Resume
+## 🧠 DSA Journey
 
-📥 [Download Resume](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf)
+- Arrays  
+- Binary Search  
+- Sorting  
+- Strings  
+- Recursion & Backtracking  
+
+🔗 **LeetCode Solutions**  
+👉 https://github.com/PRIYDARSHANGLBITM/leetcode_solution  
+
+🔗 **CDC Problems**  
+👉 https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions  
 
 ---
 
@@ -40,24 +60,25 @@
 
 ---
 
-## 🧠 DSA Journey
+## 🚀 Featured Projects
 
-- Arrays  
-- Binary Search  
-- Recursion & Backtracking  
-- Strings  
-- Sorting  
+<p align="center">
+  <a href="https://github.com/PRIYDARSHANGLBITM/LibraryManagementSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM&repo=LibraryManagementSystem&theme=tokyonight&hide_border=true" />
+  </a>
 
-🔗 https://github.com/PRIYDARSHANGLBITM/leetcode_solution  
+  <a href="https://github.com/PRIYDARSHANGLBITM/Carrental">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM&repo=Carrental&theme=tokyonight&hide_border=true" />
+  </a>
 
----
+  <a href="https://github.com/PRIYDARSHANGLBITM/GAVAI-SWAD-ONLINE-PICKLE-STORE-E_COMMERCE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM&repo=GAVAI-SWAD-ONLINE-PICKLE-STORE-E_COMMERCE&theme=tokyonight&hide_border=true" />
+  </a>
 
-## 🚀 Projects
-
-- 📚 Library Management System  
-- 🚗 Car Rental System  
-- 🛒 E-Commerce Pickle Store  
-- 🤖 AI Recipe Platform  
+  <a href="https://github.com/PRIYDARSHANGLBITM/AI_Recepee_Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM&repo=AI_Recepee_Platform&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
@@ -125,4 +146,4 @@
 
 ---
 
-⭐ **Consistency + DSA = Placement 🚀**
+⭐ **Consistency + DSA = Placement 🔥**

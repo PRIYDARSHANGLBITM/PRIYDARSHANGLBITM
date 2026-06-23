@@ -198,34 +198,7 @@
 
 ---
 
-## 🧠 LeetCode Stats (Auto Update)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/priydarshan197358?theme=dark&font=baloo)
-
----
-
-
-## 📊 GitHub Activity Graph (Auto Update)
-
-![PriyDarshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM&theme=tokyo-night)
-
-📚 Regular LeetCode & DSA practice  
-
----
-
-## 👀 Profile Visitors (Auto Update)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=PRIYDARSHANGLBITM&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-## 🐍 GitHub Contribution Snake (Auto Update)
-
-![snake gif](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/blob/output/github-contribution-grid-snake.svg)
-
----
-
-⭐ **"Consistency + DSA = Placement 🔥"**according to this -->
+ -->
 # Hi 👋, I'm Priy Darshan
 
 ### 💻 Java Developer | DSA Enthusiast | Aspiring Backend Engineer
@@ -369,15 +342,19 @@ https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions
 
 ---
 
-## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/priydarshan197358?theme=dark\&font=baloo)
+## 🧠 LeetCode Stats (Auto Update)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/priydarshan197358?theme=dark&font=baloo)
 
 ---
 
-## 📈 GitHub Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM\&theme=tokyo-night)
+## 📊 GitHub Activity Graph (Auto Update)
+
+![PriyDarshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM&theme=tokyo-night)
+
+📚 Regular LeetCode & DSA practice  
 
 ---
 ## 🐍 GitHub Contribution Snake (Auto Update)

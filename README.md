@@ -380,6 +380,10 @@ https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM\&theme=tokyo-night)
 
 ---
+## 🐍 GitHub Contribution Snake (Auto Update)
+
+![snake gif](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/blob/output/github-contribution-grid-snake.svg)
+---
 
 ## 👀 Profile Visitors
 

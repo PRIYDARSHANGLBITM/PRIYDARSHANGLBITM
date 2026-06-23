@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PRIY DARSHAN</h1>
+<!--<h1 align="center">Hi 👋, I'm PRIY DARSHAN</h1>
 <h3 align="center">💻 Java | DSA | Problem Solving Enthusiast</h3>
 
 
@@ -225,4 +225,189 @@
 
 ---
 
-⭐ **"Consistency + DSA = Placement 🔥"**according to this
+⭐ **"Consistency + DSA = Placement 🔥"**according to this -->
+# Hi 👋, I'm Priy Darshan
+
+### 💻 Java Developer | DSA Enthusiast | Aspiring Backend Engineer
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Enthusiast;Spring+Boot+Learner;Problem+Solver;Future+Software+Engineer" />
+</p>
+
+---
+
+## 🚀 About Me
+
+* 🎓 B.Tech Computer Science Student
+* 💻 Passionate about Java, Backend Development, and Problem Solving
+* 🔥 Solved 300+ DSA Problems on LeetCode
+* 🌱 Currently Learning Spring Boot, REST APIs, and System Design
+* 🚀 Building Full-Stack Projects using Java, MySQL, React, and Firebase
+* 🎯 Looking for Software Development Internship & Placement Opportunities
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 💻 Coding Profiles
+
+* 🏆 LeetCode: https://leetcode.com/priydarshan12345/
+* 💡 GitHub: https://github.com/PRIYDARSHANGLBITM
+* 🔥 HackerRank: Add Your Profile
+* ⭐ CodeChef: Add Your Profile
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-blue?style=for-the-badge)
+![Servlet](https://img.shields.io/badge/Servlet-green?style=for-the-badge)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Library Management System
+
+**Java | JDBC | MySQL**
+
+* User Authentication
+* Book Issue & Return System
+* CRUD Operations
+* Database Connectivity
+
+### 🚗 Car Rental System
+
+**Java | OOP**
+
+* Vehicle Management
+* Customer Booking System
+* Rental Tracking
+
+### 🌐 Portfolio Website
+
+**React | CSS | GSAP**
+
+* Responsive Design
+* Interactive UI
+* Smooth Animations
+
+### 🛒 Gavai Swad Pickle Store
+
+**HTML | CSS | JavaScript**
+
+* E-Commerce Website
+* Product Catalog
+* Modern UI
+
+### 🤖 AI Recipe Platform
+
+**AI | Web Development**
+
+* Smart Recipe Suggestions
+* User-Friendly Interface
+
+---
+
+## 📂 DSA Repositories
+
+### 🔗 LeetCode Solutions
+
+https://github.com/PRIYDARSHANGLBITM/leetcode_solution
+
+### 🔗 CDC Problem Solutions
+
+https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/priydarshan197358?theme=dark\&font=baloo)
+
+---
+
+## 📈 GitHub Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM\&theme=tokyo-night)
+
+---
+
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=PRIYDARSHANGLBITM\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/PRIYDARSHANGLBITM">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/priydarshan12345/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://leetcode.com/priydarshan12345/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+
+  <a href="mailto:priydarshan12345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+### ⭐ Consistency + DSA + Projects = Placement 🚀
+

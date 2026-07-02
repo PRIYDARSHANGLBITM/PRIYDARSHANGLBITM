@@ -272,49 +272,158 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge)
 
 ---
+## 📌 Featured Projects
 
-## 🚀 Featured Projects
+<table>
+<tr>
 
-### 📚 Library Management System
+<td width="50%" valign="top">
 
-**Java | JDBC | MySQL**
+## 📚 Library Management System
 
-* User Authentication
-* Book Issue & Return System
-* CRUD Operations
-* Database Connectivity
+A desktop-based Library Management System built using Java, JDBC and MySQL.
 
-### 🚗 Car Rental System
+<br>
 
-**Java | OOP**
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/JDBC-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-* Vehicle Management
-* Customer Booking System
-* Rental Tracking
+#### Features
 
-### 🌐 Portfolio Website
+- 🔐 User Authentication
+- 📖 Book Issue & Return
+- ⚙️ CRUD Operations
+- 🗄️ Database Connectivity
 
-**React | CSS | GSAP**
+**[View Repo →](https://github.com/PRIYDARSHANGLBITM/Library-Management-System)**
 
-* Responsive Design
-* Interactive UI
-* Smooth Animations
+</td>
 
-### 🛒 Gavai Swad Pickle Store
+<td width="50%" valign="top">
 
-**HTML | CSS | JavaScript**
+## 🚗 Car Rental System
 
-* E-Commerce Website
-* Product Catalog
-* Modern UI
+Java based Car Rental Management System using OOP concepts.
 
-### 🤖 AI Recipe Platform
+<br>
 
-**AI | Web Development**
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/OOP-blue?style=for-the-badge">
 
-* Smart Recipe Suggestions
-* User-Friendly Interface
+#### Features
 
+- 🚘 Vehicle Management
+- 👤 Customer Booking
+- 📅 Rental Tracking
+- 💳 Billing System
+
+**[View Repo →](https://github.com/PRIYDARSHANGLBITM/Car-Rental-System)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Portfolio Website
+
+Modern Portfolio built using React and GSAP.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge">
+
+#### Features
+
+- 📱 Responsive Design
+- ✨ Interactive UI
+- 🎬 Smooth Animations
+- ⚡ Fast Performance
+
+**[View Repo →](https://github.com/PRIYDARSHANGLBITM/Reactportfolio_project)**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛒 Gavai Swad Pickle Store
+
+Responsive E-Commerce website for a local business.
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+#### Features
+
+- 🛍️ Product Catalog
+- 🎨 Modern UI
+- 📱 Responsive Design
+- 🛒 Shopping Experience
+
+**[View Repo →](https://github.com/PRIYDARSHANGLBITM/Gavai-Swad-Pickle-Store)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI Recipe Platform
+
+AI-powered recipe recommendation platform.
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-6A1B9A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Web-Development-blue?style=for-the-badge">
+
+#### Features
+
+- 🍽️ Smart Recipe Suggestions
+- 🤖 AI Recommendation
+- 🔍 Search Recipes
+- 💻 Responsive UI
+
+**[View Repo →](https://github.com/PRIYDARSHANGLBITM/AI-Recipe-Platform)**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💻 LeetCode Solutions
+
+Collection of LeetCode & DSA solutions.
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B">
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge">
+
+#### Features
+
+- 🧩 250+ Problems
+- ⚡ Optimized Solutions
+- 📈 Time & Space Complexity
+- 📚 Regular Updates
+
+**[View Repo →](https://github.com/PRIYDARSHANGLBITM/leetcode_solution)**
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 ## 📂 DSA Repositories

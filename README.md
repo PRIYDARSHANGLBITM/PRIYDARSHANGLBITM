@@ -511,8 +511,10 @@ Collection of Coding Development Cell (CDC) programming problems and their solut
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM&theme=tokyonight&hide_border=true"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM/">
 </p>
+
 
 ---
 

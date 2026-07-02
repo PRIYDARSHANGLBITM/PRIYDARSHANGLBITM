@@ -199,6 +199,10 @@
 ---
 
  -->
+<p align="center">
+<img src="YOUR_GIF" width="700">
+</p>
+ 
 # Hi 👋, I'm Priy Darshan
 
 ### 💻 Java Developer | DSA Enthusiast | Aspiring Backend Engineer
@@ -232,10 +236,17 @@
 
 ## 💻 Coding Profiles
 
-* 🏆 LeetCode: https://leetcode.com/priydarshan12345/
-* 💡 GitHub: https://github.com/PRIYDARSHANGLBITM
-* 🔥 HackerRank: Add Your Profile
-* ⭐ CodeChef: Add Your Profile
+<p align="center">
+
+<a href="https://leetcode.com/priydarshan12345/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PRIYDARSHANGLBITM">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
@@ -480,12 +491,18 @@ Collection of Coding Development Cell (CDC) programming problems and their solut
 
 ---
 
-## 📊 GitHub Statistics
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM&theme=tokyonight&hide_border=true"/>
@@ -493,24 +510,28 @@ Collection of Coding Development Cell (CDC) programming problems and their solut
 
 ---
 
+# 📈 GitHub Activity Graph
 
-## 🧠 LeetCode Stats (Auto Update)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM&theme=tokyo-night"/>
+</p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/priydarshan197358?theme=dark&font=baloo)
+---
+
+# 🧠 LeetCode Statistics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/priydarshan197358?theme=dark&font=baloo"/>
+</p>
 
 ---
 
+# 🐍 GitHub Contribution Snake
 
-## 📊 GitHub Activity Graph (Auto Update)
+<p align="center">
+  <img src="https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
-![PriyDarshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM&theme=tokyo-night)
-
-📚 Regular LeetCode & DSA practice  
-
----
-## 🐍 GitHub Contribution Snake (Auto Update)
-
-![snake gif](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 👀 Profile Visitors
@@ -541,5 +562,5 @@ Collection of Coding Development Cell (CDC) programming problems and their solut
 
 ---
 
-### ⭐ Consistency + DSA + Projects = Placement 🚀
+⭐ Turning Ideas into Code | Building for the Future 🚀
 

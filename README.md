@@ -424,17 +424,59 @@ Collection of LeetCode & DSA solutions.
 </tr>
 
 </table>
+
 ---
 
-## 📂 DSA Repositories
+# 📂 DSA Repositories
 
-### 🔗 LeetCode Solutions
+<table>
+<tr>
 
-https://github.com/PRIYDARSHANGLBITM/leetcode_solution
+<td width="50%" valign="top">
 
-### 🔗 CDC Problem Solutions
+## 💻 LeetCode Solutions
 
-https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions
+A collection of LeetCode solutions in **Java, C++ and C** with optimized approaches and complexity analysis.
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
+#### Highlights
+
+- 🧩 DSA Problems
+- ⚡ Optimized Solutions
+- 📈 Time & Space Complexity
+- 📚 Regular Updates
+
+**[View Repository →](https://github.com/PRIYDARSHANGLBITM/leetcode_solution)**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏆 CDC Problem Solutions
+
+Collection of Coding Development Cell (CDC) programming problems and their solutions.
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/DSA-blue?style=for-the-badge">
+
+#### Highlights
+
+- 💡 Coding Problems
+- 🚀 Interview Preparation
+- 📖 Clean Code
+- 🔄 Regular Practice
+
+**[View Repository →](https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions)**
+
+</td>
+
+</tr>
+</table>
 
 ---
 

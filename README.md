@@ -1,335 +1,211 @@
-<!--\<h1 align="center">Hi 👋, I'm PRIY DARSHAN\</h1>
-<h3 align="center">💻 Java | DSA | Problem Solving Enthusiast\</h3>
+<p align="center">
+  <img src="YOUR_GIF_URL" width="700">
+</p>
 
+<h1 align="center">Hi 👋, I'm Priy Darshan</h1>
 
----
-
-## 📄 Resume
-
-📥 [Download Resume]\([https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy\_Darshan\_Resume.pdf](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf))
-
----
+<h3 align="center">
+  B.Tech CSE | Java & DSA | Full Stack | AI & SAP ABAP
+</h3>
 
 <p align="center">
-  <a href="[https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy\_Darshan\_Resume.pdf](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf)">
-    <img src="[https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge](https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge)" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Enthusiast;Full+Stack+Developer;Spring+Boot+Developer;AI+Project+Builder;SAP+ABAP+Developer;Future+Software+Engineer" />
+</p>
+
+<p align="center">
+  <a href="YOUR_VERCEL_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/priydarshan197358/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/priydarshan12345/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Enthusiast;Backend+Engineer;Problem+Solver](https://readme-typing-svg.herokuapp.com?color=00F7FF\&center=true\&vCenter=true\&lines=Java+Developer;DSA+Enthusiast;Backend+Engineer;Problem+Solver)" />
-</p>
+## 👨‍💻 About Me
 
----
-
-
-## 🚀 About Me
-
-\- 🎓 Computer Science Student  
-\- 💡 Passionate about \*\*DSA & Clean Code\*\*  
-\- 🔥 Actively solving problems on \*\*LeetCode\*\*  
-\- ⚡ Focus: \*\*Java + Backend + Problem Solving\*\*
-
-\---
-
-\## 🧠 DSA / LeetCode Journey
-
-\- 🔢 Arrays  
-\- 🔍 Binary Search  
-\- 🔁 Sorting Algorithms  
-\- 🔤 Strings  
-\- 🌲 Recursion  
-\- 🧠 Backtracking  
-
----
-
-## 📂 Problem Solving Repositories
-
-🔗 \*\*LeetCode Solutions\*\*  
-👉 [https://github.com/PRIYDARSHANGLBITM/leetcode\_solution](https://github.com/PRIYDARSHANGLBITM/leetcode_solution)  
-
-🔗 \*\*CDC Problem Solutions\*\*  
-👉 [https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions](https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions)  
-
-\---
-
-\## 🚀 Projects
-
-\### 📚 Library Management System
-🔗 [https://github.com/PRIYDARSHANGLBITM/LibraryManagementSystem](https://github.com/PRIYDARSHANGLBITM/LibraryManagementSystem)  
-
-\### 🚗 Car Rental System
-🔗 [https://github.com/PRIYDARSHANGLBITM/Carrental](https://github.com/PRIYDARSHANGLBITM/Carrental)  
-
-\### 🌐 Portfolio Website
-🔗 [https://github.com/PRIYDARSHANGLBITM/priydarshan-portfolio](https://github.com/PRIYDARSHANGLBITM/priydarshan-portfolio)  
-
-\### 🛒 E-Commerce Pickle Store
-🔗 [https://github.com/PRIYDARSHANGLBITM/GAVAI-SWAD-ONLINE-PICKLE-STORE-E\_COMMERCE](https://github.com/PRIYDARSHANGLBITM/GAVAI-SWAD-ONLINE-PICKLE-STORE-E_COMMERCE)  
-
-\### 🎬 Box Office Django Project
-🔗 [https://github.com/PRIYDARSHANGLBITM/Boxoffice-django-project](https://github.com/PRIYDARSHANGLBITM/Boxoffice-django-project)  
-
-\### 🤖 AI Recipe Platform
-🔗 [https://github.com/PRIYDARSHANGLBITM/AI\_Recepee\_Platform](https://github.com/PRIYDARSHANGLBITM/AI_Recepee_Platform)  
-
-\---
-
-\## 📁 Other Repositories
-
-\- 🔹 [https://github.com/PRIYDARSHANGLBITM/portfolio1](https://github.com/PRIYDARSHANGLBITM/portfolio1)  
-\- 🔹 [https://github.com/PRIYDARSHANGLBITM/Certificate](https://github.com/PRIYDARSHANGLBITM/Certificate)  
-\- 🔹 [https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM)  
-
-\---
-
-\## 🛠️ Tech Stack
-
-\<p>
-\<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)"/>
-\<img src="[https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)"/>
-\<img src="[https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge](https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge)"/>
-\<img src="[https://img.shields.io/badge/JDBC-blue?style=for-the-badge](https://img.shields.io/badge/JDBC-blue?style=for-the-badge)"/>
-\<img src="[https://img.shields.io/badge/Servlet-green?style=for-the-badge](https://img.shields.io/badge/Servlet-green?style=for-the-badge)"/>
-\<img src="[https://img.shields.io/badge/MySQL-blue?style=for-the-badge](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)"/>
-\<img src="[https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)"/>
-\<img src="[https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)"/>
-\<img src="[https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)"/>
-\<img src="[https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)"/>
-\<img src="[https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)"/>
-\<img src="[https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge\&logo=visualstudiocode)"/>
-\</p>
-
-\---
-
-
-
-\## 📈 GitHub Stats (Auto Update)
-
-\<p align="center">
-  \<img src="[https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show\_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM\&show_icons=true\&theme=tokyonight)" />
-\</p>
-
-\<p align="center">
-  \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM\&theme=tokyonight)" />
-\</p>
-
-\<p align="center">
-  \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM\&layout=compact\&theme=tokyonight)" />
-\</p>
-
-\---
-
-
-\## 🌐 Connect With Me
-
-\<p align="center">
-  \<a href="[https://github.com/PRIYDARSHANGLBITM](https://github.com/PRIYDARSHANGLBITM)" target="\_blank">
-    \<img src="[https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)" />
-  \</a>
-  \<a href="[https://www.linkedin.com/in/priydarshan12345/](https://www.linkedin.com/in/priydarshan12345/)" target="\_blank">
-    \<img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)" />
-  \</a>
-  \<a href="[https://leetcode.com/priydarshan12345/](https://leetcode.com/priydarshan12345/)" target="\_blank">
-    \<img src="[https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge\&logo=leetcode)" />
-  \</a>
-  \<a href="[https://www.instagram.com/priydarshan\_12345/](https://www.instagram.com/priydarshan_12345/)" target="\_blank">
-    \<img src="[https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge\&logo=instagram)" />
-  \</a>
-  \<a href="mailto\:priydarshan12345\@gmail.com" target="\_blank">
-    \<img src="[https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)" />
-  \</a>
-\</p>
-
-\---
-
-
-
-
-
-
-\## 🚀 Featured Projects
-
-\<p align="center">
-  \<a href="[https://github.com/PRIYDARSHANGLBITM/leetcode\_solution](https://github.com/PRIYDARSHANGLBITM/leetcode_solution)">
-    \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM&repo=leetcode\_solution&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM\&repo=leetcode_solution\&theme=tokyonight\&hide_border=true)" />
-  \</a>
-  
-  \<a href="[https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions](https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions)">
-    \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM&repo=cdc-problem-solutions&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM\&repo=cdc-problem-solutions\&theme=tokyonight\&hide_border=true)" />
-  \</a>
-
-  \<a href="[https://github.com/PRIYDARSHANGLBITM/LibraryManagementSystem](https://github.com/PRIYDARSHANGLBITM/LibraryManagementSystem)">
-    \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM&repo=LibraryManagementSystem&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM\&repo=LibraryManagementSystem\&theme=tokyonight\&hide_border=true)" />
-  \</a>
-
-  \<a href="[https://github.com/PRIYDARSHANGLBITM/Carrental](https://github.com/PRIYDARSHANGLBITM/Carrental)">
-    \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM&repo=Carrental&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM\&repo=Carrental\&theme=tokyonight\&hide_border=true)" />
-  \</a>
-
-  \<a href="[https://github.com/PRIYDARSHANGLBITM/priydarshan-portfolio](https://github.com/PRIYDARSHANGLBITM/priydarshan-portfolio)">
-    \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM&repo=priydarshan-portfolio&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM\&repo=priydarshan-portfolio\&theme=tokyonight\&hide_border=true)" />
-  \</a>
-
-  \<a href="[https://github.com/PRIYDARSHANGLBITM/GAVAI-SWAD-ONLINE-PICKLE-STORE-E\_COMMERCE](https://github.com/PRIYDARSHANGLBITM/GAVAI-SWAD-ONLINE-PICKLE-STORE-E_COMMERCE)">
-    \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM&repo=GAVAI-SWAD-ONLINE-PICKLE-STORE-E\_COMMERCE&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/pin/?username=PRIYDARSHANGLBITM\&repo=GAVAI-SWAD-ONLINE-PICKLE-STORE-E_COMMERCE\&theme=tokyonight\&hide_border=true)" />
-  \</a>
-\</p>
-
-
-\---
-
-\## 📈 GitHub Stats (Auto Update)
-
-\<p align="center">
-  \<img src="[https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show\_icons=true&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="150"/>
-  \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM&layout=compact&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM\&layout=compact\&theme=tokyonight\&hide_border=true)" height="150"/>
-\</p>
-
-\<p align="center">
-  \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM&theme=tokyonight&hide\_border=true](https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM\&theme=tokyonight\&hide_border=true)" height="150"/>
-\</p>
-
-\<p align="center">
-  \<img src="[https://github-contributor-stats.vercel.app/api?username=PRIYDARSHANGLBITM&limit=5&theme=tokyonight&combine\_all\_yearly\_contributions=true](https://github-contributor-stats.vercel.app/api?username=PRIYDARSHANGLBITM\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)" height="150"/>
-\</p>
-
-\---
-
--->
-<p align="center">
-<img src="YOUR\_GIF" width="700">
-</p>
- 
-# Hi 👋, I'm Priy Darshan
-
-### 💻 Java Developer | DSA Enthusiast | Aspiring Backend Engineer
-
-<p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Enthusiast;Spring+Boot+Learner;Problem+Solver;Future+Software+Engineer](https://readme-typing-svg.herokuapp.com?color=00F7FF\&center=true\&vCenter=true\&lines=Java+Developer;DSA+Enthusiast;Spring+Boot+Learner;Problem+Solver;Future+Software+Engineer)" />
-</p>
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech Computer Science Student
-* 💻 Passionate about Java, Backend Development, and Problem Solving
-* 🔥 Solved 300+ DSA Problems on LeetCode
-* 🌱 Currently Learning Spring Boot, REST APIs, and System Design
-* 🚀 Building Full-Stack Projects using Java, MySQL, React, and Firebase
-* 🎯 Looking for Software Development Internship & Placement Opportunities
+* 🎓 B.Tech Computer Science Engineering student at **G.L. Bajaj Institute of Technology & Management**
+* 💻 Passionate about **Java, Data Structures & Algorithms, Backend and Full Stack Development**
+* 🧠 Regularly practicing **DSA and problem solving on LeetCode**
+* 🚀 Building AI-powered and full-stack applications
+* ☕ Working with **Java, Spring Boot, REST APIs and MySQL**
+* ⚛️ Building modern web applications using **React, Next.js and JavaScript**
+* 🤖 Exploring **AI/ML, FastAPI and AI-powered applications**
+* 🧩 Working with **SAP ABAP and SAP-based application development**
+* 🌱 Currently improving my skills in **Backend Engineering, System Design and AI Integration**
+* 🎯 Open to **Software Development Internships and Placement Opportunities**
 
 ---
 
 ## 📄 Resume
 
 <p align="center">
-  <a href="[https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy\_Darshan\_Resume.pdf](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf)">
-    <img src="[https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge](https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge)" />
+  <a href="https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-4285F4?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 💻 Coding Profiles
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="YOUR_VERCEL_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+My portfolio showcases my:
+
+* 💻 Development projects
+* 🛠️ Technical skills
+* 🚀 AI and Full Stack applications
+* 🧠 DSA journey
+* 📚 Learning and development work
+
+**Live Portfolio:** [Visit My Portfolio](YOUR_VERCEL_PORTFOLIO_URL)
+
+**Source Code:** [MY_PORTFOLIO](https://github.com/PRIYDARSHANGLBITM/MY_PORTFOLIO)
+
+---
+
+## 🧩 Coding Profiles
 
 <p align="center">
 
-<a href="[https://leetcode.com/priydarshan12345/](https://leetcode.com/priydarshan12345/)">
-<img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)"/>
+<a href="https://leetcode.com/u/priydarshan197358/">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="[https://github.com/PRIYDARSHANGLBITM](https://github.com/PRIYDARSHANGLBITM)">
-<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)"/>
+<a href="https://github.com/PRIYDARSHANGLBITM">
+<img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/priydarshan12345/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
-![Java]\([https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge))
-![JavaScript]\([https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge))
-![SQL]\([https://img.shields.io/badge/SQL-blue?style=for-the-badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge))
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+</p>
 
-### Backend
+### ⚙️ Backend & APIs
 
-![Spring Boot]\([https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge](https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge))
-![JDBC]\([https://img.shields.io/badge/JDBC-blue?style=for-the-badge](https://img.shields.io/badge/JDBC-blue?style=for-the-badge))
-![Servlet]\([https://img.shields.io/badge/Servlet-green?style=for-the-badge](https://img.shields.io/badge/Servlet-green?style=for-the-badge))
+<p>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Servlet-5382A1?style=for-the-badge"/>
+</p>
 
-### Frontend
+### 🎨 Frontend
 
-![HTML5]\([https://img.shields.io/badge/HTML5-orange?style=for-the-badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge))
-![CSS3]\([https://img.shields.io/badge/CSS3-blue?style=for-the-badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge))
-![Bootstrap]\([https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge))
-![React]\([https://img.shields.io/badge/React-blue?style=for-the-badge](https://img.shields.io/badge/React-blue?style=for-the-badge))
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-### Database
+### 🗄️ Database & Cloud
 
-![MySQL]\([https://img.shields.io/badge/MySQL-blue?style=for-the-badge](https://img.shields.io/badge/MySQL-blue?style=for-the-badge))
-![Firebase]\([https://img.shields.io/badge/Firebase-orange?style=for-the-badge](https://img.shields.io/badge/Firebase-orange?style=for-the-badge))
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge"/>
+</p>
 
-### Tools
+### 🤖 AI / ML
 
-![Git]\([https://img.shields.io/badge/Git-black?style=for-the-badge](https://img.shields.io/badge/Git-black?style=for-the-badge))
-![GitHub]\([https://img.shields.io/badge/GitHub-black?style=for-the-badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge))
-![VS Code]\([https://img.shields.io/badge/VS\_Code-blue?style=for-the-badge](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge))
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
-## 📌 Featured Projects
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 📚 Library Management System
+## 🌱 TerraTaste
 
-A desktop-based Library Management System built using Java, JDBC and MySQL.
+**Mood Sync Engine for Power Plate2Plant**
 
-<br>
+AI-powered recipe and sustainability platform focused on personalized food recommendations, ingredients, nutrition and sustainable food decisions.
 
-<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
-<img src="[https://img.shields.io/badge/JDBC-blue?style=for-the-badge](https://img.shields.io/badge/JDBC-blue?style=for-the-badge)">
-<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)">
+**Tech Stack**
 
-#### Features
+`Next.js` `React` `AI` `JavaScript` `Nutrition` `Sustainability`
 
-- 🔐 User Authentication
-- 📖 Book Issue & Return
-- ⚙️ CRUD Operations
-- 🗄️ Database Connectivity
+### Highlights
 
-\*\*[View Repo →]\([https://github.com/PRIYDARSHANGLBITM/Library-Management-System)\*\*](https://github.com/PRIYDARSHANGLBITM/Library-Management-System\)**)
+* 🍽️ Personalized recipe recommendations
+* 🧠 AI-powered recipe generation
+* 🥕 Ingredient-based recipe discovery
+* 📊 Nutrition analysis
+* ♻️ Food waste and sustainability concepts
+* 🎯 Mood-aware food recommendations
+
+**Repository:** [View TerraTaste →](https://github.com/PRIYDARSHANGLBITM)
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🚗 Car Rental System
+## 🤖 AI Supply Chain Risk Predictor
 
-Java based Car Rental Management System using OOP concepts.
+AI-powered SAP-based system for predicting supplier and shipment risks.
 
-<br>
+**Tech Stack**
 
-<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
-<img src="[https://img.shields.io/badge/OOP-blue?style=for-the-badge](https://img.shields.io/badge/OOP-blue?style=for-the-badge)">
+`SAP ABAP` `Spring Boot` `Python` `FastAPI` `MySQL` `Machine Learning`
 
-#### Features
+### Highlights
 
-- 🚘 Vehicle Management
-- 👤 Customer Booking
-- 📅 Rental Tracking
-- 💳 Billing System
+* 📦 Supplier risk prediction
+* 🚚 Shipment delay prediction
+* 📊 Risk score generation
+* 🤖 ML-powered prediction API
+* 🔄 SAP → Spring Boot → FastAPI integration
+* ⚠️ Risk alerts and alternative supplier concepts
 
-\*\*[View Repo →]\([https://github.com/PRIYDARSHANGLBITM/Car-Rental-System)\*\*](https://github.com/PRIYDARSHANGLBITM/Car-Rental-System\)**)
+**Repository:** [View Project →](https://github.com/PRIYDARSHANGLBITM/SAP-BASED-AI--SUPPLY-CHAIN-RISK-PREDICTOR)
 
 </td>
 
@@ -341,148 +217,140 @@ Java based Car Rental Management System using OOP concepts.
 
 ## 🌐 Portfolio Website
 
-Modern Portfolio built using React and GSAP.
+Personal developer portfolio showcasing projects, skills and development journey.
 
-<br>
+**Tech Stack**
 
-<img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)">
-<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)">
-<img src="[https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)">
+`React` `JavaScript` `GSAP` `CSS` `Vercel`
 
-#### Features
+### Highlights
 
-- 📱 Responsive Design
-- ✨ Interactive UI
-- 🎬 Smooth Animations
-- ⚡ Fast Performance
+* 📱 Responsive design
+* ✨ Interactive UI
+* 🎬 Smooth animations
+* ⚡ Modern frontend
+* 🚀 Deployed on Vercel
 
-\*\*[View Repo →]\([https://github.com/PRIYDARSHANGLBITM/Reactportfolio\_project)\*\*](https://github.com/PRIYDARSHANGLBITM/Reactportfolio_project\)**)
+**Live:** [Visit Portfolio →](YOUR_VERCEL_PORTFOLIO_URL)
 
-</td>
-
-<td width="50%" valign="top">
-
-## 🛒 Gavai Swad Pickle Store
-
-Responsive E-Commerce website for a local business.
-
-<br>
-
-<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)">
-<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)">
-<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)">
-
-#### Features
-
-- 🛍️ Product Catalog
-- 🎨 Modern UI
-- 📱 Responsive Design
-- 🛒 Shopping Experience
-
-\*\*[View Repo →]\([https://github.com/PRIYDARSHANGLBITM/Gavai-Swad-Pickle-Store)\*\*](https://github.com/PRIYDARSHANGLBITM/Gavai-Swad-Pickle-Store\)**)
+**Repository:** [View Source Code →](https://github.com/PRIYDARSHANGLBITM/MY_PORTFOLIO)
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
 ## 🤖 AI Recipe Platform
 
-AI-powered recipe recommendation platform.
+AI-powered recipe discovery and recommendation platform.
 
-<br>
+**Tech Stack**
 
-<img src="[https://img.shields.io/badge/AI-6A1B9A?style=for-the-badge](https://img.shields.io/badge/AI-6A1B9A?style=for-the-badge)">
-<img src="[https://img.shields.io/badge/Web-Development-blue?style=for-the-badge](https://img.shields.io/badge/Web-Development-blue?style=for-the-badge)">
+`Next.js` `React` `AI` `Strapi` `Clerk` `Stripe`
 
-#### Features
+### Highlights
 
-- 🍽️ Smart Recipe Suggestions
-- 🤖 AI Recommendation
-- 🔍 Search Recipes
-- 💻 Responsive UI
+* 🍽️ AI recipe recommendations
+* 🔍 Recipe discovery
+* 👤 Secure authentication
+* 💳 Subscription functionality
+* 🧠 Personalized food experience
+* 📱 Responsive interface
 
-\*\*[View Repo →]\([https://github.com/PRIYDARSHANGLBITM/AI-Recipe-Platform)\*\*](https://github.com/PRIYDARSHANGLBITM/AI-Recipe-Platform\)**)
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💻 LeetCode Solutions
-
-Collection of LeetCode & DSA solutions.
-
-<br>
-
-<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
-<img src="[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B)">
-<img src="[https://img.shields.io/badge/C-blue?style=for-the-badge](https://img.shields.io/badge/C-blue?style=for-the-badge)">
-
-#### Features
-
-- 🧩 250+ Problems
-- ⚡ Optimized Solutions
-- 📈 Time & Space Complexity
-- 📚 Regular Updates
-
-\*\*[View Repo →]\([https://github.com/PRIYDARSHANGLBITM/leetcode\_solution)\*\*](https://github.com/PRIYDARSHANGLBITM/leetcode_solution\)**)
+**Repository:** [View Project →](https://github.com/PRIYDARSHANGLBITM/AI-Recipe-Platform)
 
 </td>
 
 </tr>
 
-</table>
-
----
-
-# 📂 DSA Repositories
-
-<table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 💻 LeetCode Solutions
+## 📚 Library Management System
 
-A collection of LeetCode solutions in \*\*Java, C++ and C\*\* with optimized approaches and complexity analysis.
+Desktop-based Library Management System built using Java, JDBC and MySQL.
 
-<br>
+**Tech Stack**
 
-<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
-#### Highlights
+`Java` `JDBC` `MySQL`
 
-- 🧩 DSA Problems
-- ⚡ Optimized Solutions
-- 📈 Time & Space Complexity
-- 📚 Regular Updates
+### Highlights
 
-\*\*[View Repository →]\([https://github.com/PRIYDARSHANGLBITM/leetcode\_solution)\*\*](https://github.com/PRIYDARSHANGLBITM/leetcode_solution\)**)
+* 🔐 User authentication
+* 📖 Book issue and return
+* ⚙️ CRUD operations
+* 🗄️ Database connectivity
+
+**Repository:** [View Project →](https://github.com/PRIYDARSHANGLBITM/Library-Management-System)
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🏆 CDC Problem Solutions
+## 🚗 Car Rental System
 
-Collection of Coding Development Cell (CDC) programming problems and their solutions.
+Java-based Car Rental Management System demonstrating object-oriented programming concepts.
 
-<br>
+**Tech Stack**
 
-<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
-<img src="[https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge](https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge)">
-<img src="[https://img.shields.io/badge/DSA-blue?style=for-the-badge](https://img.shields.io/badge/DSA-blue?style=for-the-badge)">
+`Java` `OOP`
 
-#### Highlights
+### Highlights
 
-- 💡 Coding Problems
-- 🚀 Interview Preparation
-- 📖 Clean Code
-- 🔄 Regular Practice
+* 🚘 Vehicle management
+* 👤 Customer management
+* 📅 Rental tracking
+* 💳 Billing system
 
-\*\*[View Repository →]\([https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions)\*\*](https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions\)**)
+**Repository:** [View Project →](https://github.com/PRIYDARSHANGLBITM/Car-Rental-System)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛒 Gavai Swad Pickle Store
+
+Responsive e-commerce website developed for a local business.
+
+**Tech Stack**
+
+`HTML5` `CSS3` `JavaScript`
+
+### Highlights
+
+* 🛍️ Product catalogue
+* 🎨 Modern UI
+* 📱 Responsive design
+* 🛒 E-commerce experience
+
+**Repository:** [View Project →](https://github.com/PRIYDARSHANGLBITM/Gavai-Swad-Pickle-Store)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧩 LeetCode Solutions
+
+Collection of DSA and competitive programming solutions.
+
+**Languages**
+
+`Java` `C++` `C`
+
+### Highlights
+
+* 🧩 Data Structures & Algorithms
+* ⚡ Optimized solutions
+* 📈 Time & space complexity
+* 📚 Regular practice
+
+**Repository:** [View Solutions →](https://github.com/PRIYDARSHANGLBITM/leetcode_solution)
+
+**LeetCode:** [View Profile →](https://leetcode.com/u/priydarshan197358/)
 
 </td>
 
@@ -490,20 +358,29 @@ Collection of Coding Development Cell (CDC) programming problems and their solut
 </table>
 
 ---
+
+# 🧠 DSA & Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/priydarshan197358/">
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+### DSA Repositories
+
+| Repository                                                                          | Description                                         |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------- |
+| [LeetCode Solutions](https://github.com/PRIYDARSHANGLBITM/leetcode_solution)        | Java, C++ and C solutions with optimized approaches |
+| [CDC Problem Solutions](https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions) | Coding Development Cell problem-solving practice    |
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show\_icons=true&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="170"/>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM&layout=compact&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM\&layout=compact\&theme=tokyonight\&hide_border=true)" height="170"/>
-</p>
-
-<p align="center">
-<img height="170" src="[https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show\_icons=true&theme=tokyonight&hide\_border=true&count\_private=true](https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)"/>
-
-<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM&layout=compact&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM\&layout=compact\&theme=tokyonight\&hide_border=true)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -511,17 +388,15 @@ Collection of Coding Development Cell (CDC) programming problems and their solut
 # 🔥 Contribution Streak
 
 <p align="center">
-
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM/](https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM/)">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 
 # 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM&theme=tokyo-night](https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM\&theme=tokyo-night)"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -529,7 +404,13 @@ Collection of Coding Development Cell (CDC) programming problems and their solut
 # 🧠 LeetCode Statistics
 
 <p align="center">
-  <img src="[https://leetcard.jacoblin.cool/priydarshan197358?theme=dark&font=baloo](https://leetcard.jacoblin.cool/priydarshan197358?theme=dark\&font=baloo)"/>
+  <img src="https://leetcard.jacoblin.cool/priydarshan197358?theme=dark&font=baloo" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/priydarshan197358/">
+    <img src="https://img.shields.io/badge/View%20Full%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -537,37 +418,47 @@ Collection of Coding Development Cell (CDC) programming problems and their solut
 # 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="[https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/blob/output/github-contribution-grid-snake.svg](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/blob/output/github-contribution-grid-snake.svg)"/>
+  <img src="https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-## 👀 Profile Visitors
-
-![Visitor Count]\([https://komarev.com/ghpvc/?username=PRIYDARSHANGLBITM\\&label=Profile%20Views\\&color=0e75b6\\&style=flat](https://komarev.com/ghpvc/?username=PRIYDARSHANGLBITM\\\&label=Profile%20Views\\\&color=0e75b6\\\&style=flat))
-
----
-
-## 🌐 Connect With Me
+# 👀 Profile Visitors
 
 <p align="center">
-  <a href="[https://github.com/PRIYDARSHANGLBITM](https://github.com/PRIYDARSHANGLBITM)">
-    <img src="[https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)"/>
-  </a>
-
-  <a href="[https://www.linkedin.com/in/priydarshan12345/](https://www.linkedin.com/in/priydarshan12345/)">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)"/>
-  </a>
-
-  <a href="[https://leetcode.com/priydarshan12345/](https://leetcode.com/priydarshan12345/)">
-    <img src="[https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge\&logo=leetcode)"/>
-  </a>
-
-  <a href="mailto\:priydarshan12345\@gmail.com">
-    <img src="[https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=PRIYDARSHANGLBITM&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-⭐ Turning Ideas into Code | Building for the Future 🚀
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/PRIYDARSHANGLBITM">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/priydarshan12345/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/priydarshan197358/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="YOUR_VERCEL_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:priydarshan12345@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Turning Ideas into Code | Building AI, Full Stack & SAP Solutions 🚀</b>
+</p>

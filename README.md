@@ -1,31 +1,31 @@
-\<!--\<h1 align="center">Hi 👋, I'm PRIY DARSHAN\</h1>
-\<h3 align="center">💻 Java | DSA | Problem Solving Enthusiast\</h3>
+<!--\<h1 align="center">Hi 👋, I'm PRIY DARSHAN\</h1>
+<h3 align="center">💻 Java | DSA | Problem Solving Enthusiast\</h3>
 
 
-\---
+---
 
-\## 📄 Resume
+## 📄 Resume
 
 📥 [Download Resume]\([https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy\_Darshan\_Resume.pdf](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf))
 
-\---
+---
 
-\<p align="center">
-  \<a href="[https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy\_Darshan\_Resume.pdf](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf)">
-    \<img src="[https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge](https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge)" />
-  \</a>
-\</p>
+<p align="center">
+  <a href="[https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy\_Darshan\_Resume.pdf](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf)">
+    <img src="[https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge](https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge)" />
+  </a>
+</p>
 
-\---
+---
 
-\<p align="center">
-  \<img src="[https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Enthusiast;Backend+Engineer;Problem+Solver](https://readme-typing-svg.herokuapp.com?color=00F7FF\&center=true\&vCenter=true\&lines=Java+Developer;DSA+Enthusiast;Backend+Engineer;Problem+Solver)" />
-\</p>
+<p align="center">
+  <img src="[https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Enthusiast;Backend+Engineer;Problem+Solver](https://readme-typing-svg.herokuapp.com?color=00F7FF\&center=true\&vCenter=true\&lines=Java+Developer;DSA+Enthusiast;Backend+Engineer;Problem+Solver)" />
+</p>
 
-\---
+---
 
 
-\## 🚀 About Me
+## 🚀 About Me
 
 \- 🎓 Computer Science Student  
 \- 💡 Passionate about \*\*DSA & Clean Code\*\*  
@@ -43,9 +43,9 @@
 \- 🌲 Recursion  
 \- 🧠 Backtracking  
 
-\---
+---
 
-\## 📂 Problem Solving Repositories
+## 📂 Problem Solving Repositories
 
 🔗 \*\*LeetCode Solutions\*\*  
 👉 [https://github.com/PRIYDARSHANGLBITM/leetcode\_solution](https://github.com/PRIYDARSHANGLBITM/leetcode_solution)  
@@ -198,376 +198,376 @@
 
 \---
 
- \-->
-\<p align="center">
-\<img src="YOUR\_GIF" width="700">
-\</p>
+-->
+<p align="center">
+<img src="YOUR\_GIF" width="700">
+</p>
  
-\# Hi 👋, I'm Priy Darshan
+# Hi 👋, I'm Priy Darshan
 
-\### 💻 Java Developer | DSA Enthusiast | Aspiring Backend Engineer
+### 💻 Java Developer | DSA Enthusiast | Aspiring Backend Engineer
 
-\<p align="center">
-  \<img src="[https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Enthusiast;Spring+Boot+Learner;Problem+Solver;Future+Software+Engineer](https://readme-typing-svg.herokuapp.com?color=00F7FF\&center=true\&vCenter=true\&lines=Java+Developer;DSA+Enthusiast;Spring+Boot+Learner;Problem+Solver;Future+Software+Engineer)" />
-\</p>
+<p align="center">
+  <img src="[https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Enthusiast;Spring+Boot+Learner;Problem+Solver;Future+Software+Engineer](https://readme-typing-svg.herokuapp.com?color=00F7FF\&center=true\&vCenter=true\&lines=Java+Developer;DSA+Enthusiast;Spring+Boot+Learner;Problem+Solver;Future+Software+Engineer)" />
+</p>
 
-\---
+---
 
-\## 🚀 About Me
+## 🚀 About Me
 
-\* 🎓 B.Tech Computer Science Student
-\* 💻 Passionate about Java, Backend Development, and Problem Solving
-\* 🔥 Solved 300+ DSA Problems on LeetCode
-\* 🌱 Currently Learning Spring Boot, REST APIs, and System Design
-\* 🚀 Building Full-Stack Projects using Java, MySQL, React, and Firebase
-\* 🎯 Looking for Software Development Internship & Placement Opportunities
+* 🎓 B.Tech Computer Science Student
+* 💻 Passionate about Java, Backend Development, and Problem Solving
+* 🔥 Solved 300+ DSA Problems on LeetCode
+* 🌱 Currently Learning Spring Boot, REST APIs, and System Design
+* 🚀 Building Full-Stack Projects using Java, MySQL, React, and Firebase
+* 🎯 Looking for Software Development Internship & Placement Opportunities
 
-\---
+---
 
-\## 📄 Resume
+## 📄 Resume
 
-\<p align="center">
-  \<a href="[https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy\_Darshan\_Resume.pdf](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf)">
-    \<img src="[https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge](https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge)" />
-  \</a>
-\</p>
+<p align="center">
+  <a href="[https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy\_Darshan\_Resume.pdf](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf)">
+    <img src="[https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge](https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge)" />
+  </a>
+</p>
 
-\---
+---
 
-\## 💻 Coding Profiles
+## 💻 Coding Profiles
 
-\<p align="center">
+<p align="center">
 
-\<a href="[https://leetcode.com/priydarshan12345/](https://leetcode.com/priydarshan12345/)">
-\<img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)"/>
-\</a>
+<a href="[https://leetcode.com/priydarshan12345/](https://leetcode.com/priydarshan12345/)">
+<img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)"/>
+</a>
 
-\<a href="[https://github.com/PRIYDARSHANGLBITM](https://github.com/PRIYDARSHANGLBITM)">
-\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)"/>
-\</a>
+<a href="[https://github.com/PRIYDARSHANGLBITM](https://github.com/PRIYDARSHANGLBITM)">
+<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)"/>
+</a>
 
-\</p>
+</p>
 
-\---
+---
 
-\## 🛠 Tech Stack
+## 🛠 Tech Stack
 
-\### Languages
+### Languages
 
 ![Java]\([https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge))
 ![JavaScript]\([https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge))
 ![SQL]\([https://img.shields.io/badge/SQL-blue?style=for-the-badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge))
 
-\### Backend
+### Backend
 
 ![Spring Boot]\([https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge](https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge))
 ![JDBC]\([https://img.shields.io/badge/JDBC-blue?style=for-the-badge](https://img.shields.io/badge/JDBC-blue?style=for-the-badge))
 ![Servlet]\([https://img.shields.io/badge/Servlet-green?style=for-the-badge](https://img.shields.io/badge/Servlet-green?style=for-the-badge))
 
-\### Frontend
+### Frontend
 
 ![HTML5]\([https://img.shields.io/badge/HTML5-orange?style=for-the-badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge))
 ![CSS3]\([https://img.shields.io/badge/CSS3-blue?style=for-the-badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge))
 ![Bootstrap]\([https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge))
 ![React]\([https://img.shields.io/badge/React-blue?style=for-the-badge](https://img.shields.io/badge/React-blue?style=for-the-badge))
 
-\### Database
+### Database
 
 ![MySQL]\([https://img.shields.io/badge/MySQL-blue?style=for-the-badge](https://img.shields.io/badge/MySQL-blue?style=for-the-badge))
 ![Firebase]\([https://img.shields.io/badge/Firebase-orange?style=for-the-badge](https://img.shields.io/badge/Firebase-orange?style=for-the-badge))
 
-\### Tools
+### Tools
 
 ![Git]\([https://img.shields.io/badge/Git-black?style=for-the-badge](https://img.shields.io/badge/Git-black?style=for-the-badge))
 ![GitHub]\([https://img.shields.io/badge/GitHub-black?style=for-the-badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge))
 ![VS Code]\([https://img.shields.io/badge/VS\_Code-blue?style=for-the-badge](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge))
 
-\---
-\## 📌 Featured Projects
+---
+## 📌 Featured Projects
 
-\<table>
-\<tr>
+<table>
+<tr>
 
-\<td width="50%" valign="top">
+<td width="50%" valign="top">
 
-\## 📚 Library Management System
+## 📚 Library Management System
 
 A desktop-based Library Management System built using Java, JDBC and MySQL.
 
-\<br>
+<br>
 
-\<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
-\<img src="[https://img.shields.io/badge/JDBC-blue?style=for-the-badge](https://img.shields.io/badge/JDBC-blue?style=for-the-badge)">
-\<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)">
+<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
+<img src="[https://img.shields.io/badge/JDBC-blue?style=for-the-badge](https://img.shields.io/badge/JDBC-blue?style=for-the-badge)">
+<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)">
 
-\#### Features
+#### Features
 
-\- 🔐 User Authentication
-\- 📖 Book Issue & Return
-\- ⚙️ CRUD Operations
-\- 🗄️ Database Connectivity
+- 🔐 User Authentication
+- 📖 Book Issue & Return
+- ⚙️ CRUD Operations
+- 🗄️ Database Connectivity
 
 \*\*[View Repo →]\([https://github.com/PRIYDARSHANGLBITM/Library-Management-System)\*\*](https://github.com/PRIYDARSHANGLBITM/Library-Management-System\)**)
 
-\</td>
+</td>
 
-\<td width="50%" valign="top">
+<td width="50%" valign="top">
 
-\## 🚗 Car Rental System
+## 🚗 Car Rental System
 
 Java based Car Rental Management System using OOP concepts.
 
-\<br>
+<br>
 
-\<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
-\<img src="[https://img.shields.io/badge/OOP-blue?style=for-the-badge](https://img.shields.io/badge/OOP-blue?style=for-the-badge)">
+<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
+<img src="[https://img.shields.io/badge/OOP-blue?style=for-the-badge](https://img.shields.io/badge/OOP-blue?style=for-the-badge)">
 
-\#### Features
+#### Features
 
-\- 🚘 Vehicle Management
-\- 👤 Customer Booking
-\- 📅 Rental Tracking
-\- 💳 Billing System
+- 🚘 Vehicle Management
+- 👤 Customer Booking
+- 📅 Rental Tracking
+- 💳 Billing System
 
 \*\*[View Repo →]\([https://github.com/PRIYDARSHANGLBITM/Car-Rental-System)\*\*](https://github.com/PRIYDARSHANGLBITM/Car-Rental-System\)**)
 
-\</td>
+</td>
 
-\</tr>
+</tr>
 
-\<tr>
+<tr>
 
-\<td width="50%" valign="top">
+<td width="50%" valign="top">
 
-\## 🌐 Portfolio Website
+## 🌐 Portfolio Website
 
 Modern Portfolio built using React and GSAP.
 
-\<br>
+<br>
 
-\<img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)">
-\<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)">
-\<img src="[https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)">
+<img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)">
+<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)">
+<img src="[https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)">
 
-\#### Features
+#### Features
 
-\- 📱 Responsive Design
-\- ✨ Interactive UI
-\- 🎬 Smooth Animations
-\- ⚡ Fast Performance
+- 📱 Responsive Design
+- ✨ Interactive UI
+- 🎬 Smooth Animations
+- ⚡ Fast Performance
 
 \*\*[View Repo →]\([https://github.com/PRIYDARSHANGLBITM/Reactportfolio\_project)\*\*](https://github.com/PRIYDARSHANGLBITM/Reactportfolio_project\)**)
 
-\</td>
+</td>
 
-\<td width="50%" valign="top">
+<td width="50%" valign="top">
 
-\## 🛒 Gavai Swad Pickle Store
+## 🛒 Gavai Swad Pickle Store
 
 Responsive E-Commerce website for a local business.
 
-\<br>
+<br>
 
-\<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)">
-\<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)">
-\<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)">
+<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)">
+<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)">
+<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)">
 
-\#### Features
+#### Features
 
-\- 🛍️ Product Catalog
-\- 🎨 Modern UI
-\- 📱 Responsive Design
-\- 🛒 Shopping Experience
+- 🛍️ Product Catalog
+- 🎨 Modern UI
+- 📱 Responsive Design
+- 🛒 Shopping Experience
 
 \*\*[View Repo →]\([https://github.com/PRIYDARSHANGLBITM/Gavai-Swad-Pickle-Store)\*\*](https://github.com/PRIYDARSHANGLBITM/Gavai-Swad-Pickle-Store\)**)
 
-\</td>
+</td>
 
-\</tr>
+</tr>
 
-\<tr>
+<tr>
 
-\<td width="50%" valign="top">
+<td width="50%" valign="top">
 
-\## 🤖 AI Recipe Platform
+## 🤖 AI Recipe Platform
 
 AI-powered recipe recommendation platform.
 
-\<br>
+<br>
 
-\<img src="[https://img.shields.io/badge/AI-6A1B9A?style=for-the-badge](https://img.shields.io/badge/AI-6A1B9A?style=for-the-badge)">
-\<img src="[https://img.shields.io/badge/Web-Development-blue?style=for-the-badge](https://img.shields.io/badge/Web-Development-blue?style=for-the-badge)">
+<img src="[https://img.shields.io/badge/AI-6A1B9A?style=for-the-badge](https://img.shields.io/badge/AI-6A1B9A?style=for-the-badge)">
+<img src="[https://img.shields.io/badge/Web-Development-blue?style=for-the-badge](https://img.shields.io/badge/Web-Development-blue?style=for-the-badge)">
 
-\#### Features
+#### Features
 
-\- 🍽️ Smart Recipe Suggestions
-\- 🤖 AI Recommendation
-\- 🔍 Search Recipes
-\- 💻 Responsive UI
+- 🍽️ Smart Recipe Suggestions
+- 🤖 AI Recommendation
+- 🔍 Search Recipes
+- 💻 Responsive UI
 
 \*\*[View Repo →]\([https://github.com/PRIYDARSHANGLBITM/AI-Recipe-Platform)\*\*](https://github.com/PRIYDARSHANGLBITM/AI-Recipe-Platform\)**)
 
-\</td>
+</td>
 
-\<td width="50%" valign="top">
+<td width="50%" valign="top">
 
-\## 💻 LeetCode Solutions
+## 💻 LeetCode Solutions
 
 Collection of LeetCode & DSA solutions.
 
-\<br>
+<br>
 
-\<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
-\<img src="[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B)">
-\<img src="[https://img.shields.io/badge/C-blue?style=for-the-badge](https://img.shields.io/badge/C-blue?style=for-the-badge)">
+<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
+<img src="[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B)">
+<img src="[https://img.shields.io/badge/C-blue?style=for-the-badge](https://img.shields.io/badge/C-blue?style=for-the-badge)">
 
-\#### Features
+#### Features
 
-\- 🧩 250+ Problems
-\- ⚡ Optimized Solutions
-\- 📈 Time & Space Complexity
-\- 📚 Regular Updates
+- 🧩 250+ Problems
+- ⚡ Optimized Solutions
+- 📈 Time & Space Complexity
+- 📚 Regular Updates
 
 \*\*[View Repo →]\([https://github.com/PRIYDARSHANGLBITM/leetcode\_solution)\*\*](https://github.com/PRIYDARSHANGLBITM/leetcode_solution\)**)
 
-\</td>
+</td>
 
-\</tr>
+</tr>
 
-\</table>
+</table>
 
-\---
+---
 
-\# 📂 DSA Repositories
+# 📂 DSA Repositories
 
-\<table>
-\<tr>
+<table>
+<tr>
 
-\<td width="50%" valign="top">
+<td width="50%" valign="top">
 
-\## 💻 LeetCode Solutions
+## 💻 LeetCode Solutions
 
 A collection of LeetCode solutions in \*\*Java, C++ and C\*\* with optimized approaches and complexity analysis.
 
-\<br>
+<br>
 
-\<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
-\#### Highlights
+<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
+#### Highlights
 
-\- 🧩 DSA Problems
-\- ⚡ Optimized Solutions
-\- 📈 Time & Space Complexity
-\- 📚 Regular Updates
+- 🧩 DSA Problems
+- ⚡ Optimized Solutions
+- 📈 Time & Space Complexity
+- 📚 Regular Updates
 
 \*\*[View Repository →]\([https://github.com/PRIYDARSHANGLBITM/leetcode\_solution)\*\*](https://github.com/PRIYDARSHANGLBITM/leetcode_solution\)**)
 
-\</td>
+</td>
 
-\<td width="50%" valign="top">
+<td width="50%" valign="top">
 
-\## 🏆 CDC Problem Solutions
+## 🏆 CDC Problem Solutions
 
 Collection of Coding Development Cell (CDC) programming problems and their solutions.
 
-\<br>
+<br>
 
-\<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
-\<img src="[https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge](https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge)">
-\<img src="[https://img.shields.io/badge/DSA-blue?style=for-the-badge](https://img.shields.io/badge/DSA-blue?style=for-the-badge)">
+<img src="[https://img.shields.io/badge/Java-orange?style=for-the-badge](https://img.shields.io/badge/Java-orange?style=for-the-badge)">
+<img src="[https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge](https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge)">
+<img src="[https://img.shields.io/badge/DSA-blue?style=for-the-badge](https://img.shields.io/badge/DSA-blue?style=for-the-badge)">
 
-\#### Highlights
+#### Highlights
 
-\- 💡 Coding Problems
-\- 🚀 Interview Preparation
-\- 📖 Clean Code
-\- 🔄 Regular Practice
+- 💡 Coding Problems
+- 🚀 Interview Preparation
+- 📖 Clean Code
+- 🔄 Regular Practice
 
 \*\*[View Repository →]\([https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions)\*\*](https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions\)**)
 
-\</td>
+</td>
 
-\</tr>
-\</table>
+</tr>
+</table>
 
-\---
+---
 
-\---
+---
 
-\# 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
-\<p align="center">
-  \<img src="[https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show\_icons=true&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="170"/>
-  \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM&layout=compact&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM\&layout=compact\&theme=tokyonight\&hide_border=true)" height="170"/>
-\</p>
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show\_icons=true&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="170"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM&layout=compact&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM\&layout=compact\&theme=tokyonight\&hide_border=true)" height="170"/>
+</p>
 
-\<p align="center">
-\<img height="170" src="[https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show\_icons=true&theme=tokyonight&hide\_border=true&count\_private=true](https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)"/>
+<p align="center">
+<img height="170" src="[https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show\_icons=true&theme=tokyonight&hide\_border=true&count\_private=true](https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)"/>
 
-\<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM&layout=compact&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM\&layout=compact\&theme=tokyonight\&hide_border=true)"/>
-\</p>
+<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM&layout=compact&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM\&layout=compact\&theme=tokyonight\&hide_border=true)"/>
+</p>
 
-\---
+---
 
-\# 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
-\<p align="center">
+<p align="center">
 
-  \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM/](https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM/)">
-\</p>
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM/](https://github-readme-streak-stats.herokuapp.com/?user=PRIYDARSHANGLBITM/)">
+</p>
 
 
-\---
+---
 
-\# 📈 GitHub Activity Graph
+# 📈 GitHub Activity Graph
 
-\<p align="center">
-  \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM&theme=tokyo-night](https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM\&theme=tokyo-night)"/>
-\</p>
+<p align="center">
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM&theme=tokyo-night](https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM\&theme=tokyo-night)"/>
+</p>
 
-\---
+---
 
-\# 🧠 LeetCode Statistics
+# 🧠 LeetCode Statistics
 
-\<p align="center">
-  \<img src="[https://leetcard.jacoblin.cool/priydarshan197358?theme=dark&font=baloo](https://leetcard.jacoblin.cool/priydarshan197358?theme=dark\&font=baloo)"/>
-\</p>
+<p align="center">
+  <img src="[https://leetcard.jacoblin.cool/priydarshan197358?theme=dark&font=baloo](https://leetcard.jacoblin.cool/priydarshan197358?theme=dark\&font=baloo)"/>
+</p>
 
-\---
+---
 
-\# 🐍 GitHub Contribution Snake
+# 🐍 GitHub Contribution Snake
 
-\<p align="center">
-  \<img src="[https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/blob/output/github-contribution-grid-snake.svg](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/blob/output/github-contribution-grid-snake.svg)"/>
-\</p>
+<p align="center">
+  <img src="[https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/blob/output/github-contribution-grid-snake.svg](https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/blob/output/github-contribution-grid-snake.svg)"/>
+</p>
 
-\---
+---
 
-\## 👀 Profile Visitors
+## 👀 Profile Visitors
 
 ![Visitor Count]\([https://komarev.com/ghpvc/?username=PRIYDARSHANGLBITM\\&label=Profile%20Views\\&color=0e75b6\\&style=flat](https://komarev.com/ghpvc/?username=PRIYDARSHANGLBITM\\\&label=Profile%20Views\\\&color=0e75b6\\\&style=flat))
 
-\---
+---
 
-\## 🌐 Connect With Me
+## 🌐 Connect With Me
 
-\<p align="center">
-  \<a href="[https://github.com/PRIYDARSHANGLBITM](https://github.com/PRIYDARSHANGLBITM)">
-    \<img src="[https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)"/>
-  \</a>
+<p align="center">
+  <a href="[https://github.com/PRIYDARSHANGLBITM](https://github.com/PRIYDARSHANGLBITM)">
+    <img src="[https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)"/>
+  </a>
 
-  \<a href="[https://www.linkedin.com/in/priydarshan12345/](https://www.linkedin.com/in/priydarshan12345/)">
-    \<img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)"/>
-  \</a>
+  <a href="[https://www.linkedin.com/in/priydarshan12345/](https://www.linkedin.com/in/priydarshan12345/)">
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)"/>
+  </a>
 
-  \<a href="[https://leetcode.com/priydarshan12345/](https://leetcode.com/priydarshan12345/)">
-    \<img src="[https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge\&logo=leetcode)"/>
-  \</a>
+  <a href="[https://leetcode.com/priydarshan12345/](https://leetcode.com/priydarshan12345/)">
+    <img src="[https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge\&logo=leetcode)"/>
+  </a>
 
-  \<a href="mailto\:priydarshan12345\@gmail.com">
-    \<img src="[https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)"/>
-  \</a>
-\</p>
+  <a href="mailto\:priydarshan12345\@gmail.com">
+    <img src="[https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)"/>
+  </a>
+</p>
 
-\---
+---
 
 ⭐ Turning Ideas into Code | Building for the Future 🚀

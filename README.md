@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="YOUR_GIF_URL" width="700">
-</p>
+<!--<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=28&lines=Java+Developer;DSA+Enthusiast;Full+Stack+Developer;Spring+Boot+Developer;AI+Project+Builder;SAP+ABAP+Developer;Future+Software+Engineer" />
+</p>-->
 
 <h1 align="center">Hi 👋, I'm Priy Darshan</h1>
 
@@ -9,18 +9,14 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Enthusiast;Full+Stack+Developer;Spring+Boot+Developer;AI+Project+Builder;SAP+ABAP+Developer;Future+Software+Engineer" />
-</p>
-
-<p align="center">
-  <a href="YOUR_VERCEL_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
+  <a href="https://my-portfolio-five-chi-32.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/priydarshan197358/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/priydarshan12345/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -28,16 +24,33 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech Computer Science Engineering student at **G.L. Bajaj Institute of Technology & Management**
-* 💻 Passionate about **Java, Data Structures & Algorithms, Backend and Full Stack Development**
-* 🧠 Regularly practicing **DSA and problem solving on LeetCode**
-* 🚀 Building AI-powered and full-stack applications
-* ☕ Working with **Java, Spring Boot, REST APIs and MySQL**
-* ⚛️ Building modern web applications using **React, Next.js and JavaScript**
-* 🤖 Exploring **AI/ML, FastAPI and AI-powered applications**
-* 🧩 Working with **SAP ABAP and SAP-based application development**
-* 🌱 Currently improving my skills in **Backend Engineering, System Design and AI Integration**
-* 🎯 Open to **Software Development Internships and Placement Opportunities**
+- 🎓 B.Tech Computer Science Engineering student at **G.L. Bajaj Institute of Technology & Management**
+- 💻 Passionate about **Java, Data Structures & Algorithms, Backend and Full Stack Development**
+- 🧠 Regularly practicing **DSA and problem solving on LeetCode**
+- 🚀 Building **AI-powered and full-stack applications**
+- ☕ Working with **Java, Spring Boot, REST APIs and MySQL**
+- ⚛️ Building modern web applications using **React, Next.js and JavaScript**
+- 🤖 Exploring **AI/ML, FastAPI and AI-powered applications**
+- 🧩 Working with **SAP ABAP and SAP-based application development**
+- 🎯 Open to **Software Development Internships and Placement Opportunities**
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://my-portfolio-five-chi-32.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+My portfolio showcases my projects, technical skills, development work and learning journey.
+
+**🌐 Live Portfolio:**  
+https://my-portfolio-five-chi-32.vercel.app/
+
+**💻 Source Code:**  
+https://github.com/PRIYDARSHANGLBITM/MY_PORTFOLIO
 
 ---
 
@@ -45,31 +58,9 @@
 
 <p align="center">
   <a href="https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf">
-    <img src="https://img.shields.io/badge/📄%20Download%20Resume-4285F4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-4285F4?style=for-the-badge"/>
   </a>
 </p>
-
----
-
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="YOUR_VERCEL_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-My portfolio showcases my:
-
-* 💻 Development projects
-* 🛠️ Technical skills
-* 🚀 AI and Full Stack applications
-* 🧠 DSA journey
-* 📚 Learning and development work
-
-**Live Portfolio:** [Visit My Portfolio](YOUR_VERCEL_PORTFOLIO_URL)
-
-**Source Code:** [MY_PORTFOLIO](https://github.com/PRIYDARSHANGLBITM/MY_PORTFOLIO)
 
 ---
 
@@ -165,7 +156,7 @@ My portfolio showcases my:
 
 ## 🌱 TerraTaste
 
-**Mood Sync Engine for Power Plate2Plant**
+### Mood Sync Engine for Power Plate2Plant
 
 AI-powered recipe and sustainability platform focused on personalized food recommendations, ingredients, nutrition and sustainable food decisions.
 
@@ -175,14 +166,15 @@ AI-powered recipe and sustainability platform focused on personalized food recom
 
 ### Highlights
 
-* 🍽️ Personalized recipe recommendations
-* 🧠 AI-powered recipe generation
-* 🥕 Ingredient-based recipe discovery
-* 📊 Nutrition analysis
-* ♻️ Food waste and sustainability concepts
-* 🎯 Mood-aware food recommendations
+- 🍽️ Personalized recipe recommendations
+- 🧠 AI-powered recipe generation
+- 🥕 Ingredient-based recipe discovery
+- 📊 Nutrition analysis
+- ♻️ Food waste and sustainability concepts
+- 🎯 Mood-aware food recommendations
 
-**Repository:** [View TerraTaste →](https://github.com/PRIYDARSHANGLBITM)
+**Repository:**  
+[View Project →](https://github.com/PRIYDARSHANGLBITM)
 
 </td>
 
@@ -198,14 +190,15 @@ AI-powered SAP-based system for predicting supplier and shipment risks.
 
 ### Highlights
 
-* 📦 Supplier risk prediction
-* 🚚 Shipment delay prediction
-* 📊 Risk score generation
-* 🤖 ML-powered prediction API
-* 🔄 SAP → Spring Boot → FastAPI integration
-* ⚠️ Risk alerts and alternative supplier concepts
+- 📦 Supplier risk prediction
+- 🚚 Shipment delay prediction
+- 📊 Risk score generation
+- 🤖 ML-powered prediction API
+- 🔄 SAP → Spring Boot → FastAPI integration
+- ⚠️ Risk alerts and alternative supplier concepts
 
-**Repository:** [View Project →](https://github.com/PRIYDARSHANGLBITM/SAP-BASED-AI--SUPPLY-CHAIN-RISK-PREDICTOR)
+**Repository:**  
+[View Project →](https://github.com/PRIYDARSHANGLBITM/SAP-BASED-AI--SUPPLY-CHAIN-RISK-PREDICTOR)
 
 </td>
 
@@ -217,7 +210,7 @@ AI-powered SAP-based system for predicting supplier and shipment risks.
 
 ## 🌐 Portfolio Website
 
-Personal developer portfolio showcasing projects, skills and development journey.
+Modern developer portfolio deployed on Vercel.
 
 **Tech Stack**
 
@@ -225,15 +218,17 @@ Personal developer portfolio showcasing projects, skills and development journey
 
 ### Highlights
 
-* 📱 Responsive design
-* ✨ Interactive UI
-* 🎬 Smooth animations
-* ⚡ Modern frontend
-* 🚀 Deployed on Vercel
+- 📱 Responsive design
+- ✨ Interactive UI
+- 🎬 Smooth animations
+- ⚡ Modern frontend
+- 🚀 Vercel deployment
 
-**Live:** [Visit Portfolio →](YOUR_VERCEL_PORTFOLIO_URL)
+**Live Website:**  
+[Visit Portfolio →](https://my-portfolio-five-chi-32.vercel.app/)
 
-**Repository:** [View Source Code →](https://github.com/PRIYDARSHANGLBITM/MY_PORTFOLIO)
+**Repository:**  
+[View Source Code →](https://github.com/PRIYDARSHANGLBITM/MY_PORTFOLIO)
 
 </td>
 
@@ -249,14 +244,15 @@ AI-powered recipe discovery and recommendation platform.
 
 ### Highlights
 
-* 🍽️ AI recipe recommendations
-* 🔍 Recipe discovery
-* 👤 Secure authentication
-* 💳 Subscription functionality
-* 🧠 Personalized food experience
-* 📱 Responsive interface
+- 🍽️ AI recipe recommendations
+- 🔍 Recipe discovery
+- 👤 Secure authentication
+- 💳 Subscription functionality
+- 🧠 Personalized food experience
+- 📱 Responsive interface
 
-**Repository:** [View Project →](https://github.com/PRIYDARSHANGLBITM/AI-Recipe-Platform)
+**Repository:**  
+[View Project →](https://github.com/PRIYDARSHANGLBITM/AI-Recipe-Platform)
 
 </td>
 
@@ -276,12 +272,13 @@ Desktop-based Library Management System built using Java, JDBC and MySQL.
 
 ### Highlights
 
-* 🔐 User authentication
-* 📖 Book issue and return
-* ⚙️ CRUD operations
-* 🗄️ Database connectivity
+- 🔐 User authentication
+- 📖 Book issue and return
+- ⚙️ CRUD operations
+- 🗄️ Database connectivity
 
-**Repository:** [View Project →](https://github.com/PRIYDARSHANGLBITM/Library-Management-System)
+**Repository:**  
+[View Project →](https://github.com/PRIYDARSHANGLBITM/Library-Management-System)
 
 </td>
 
@@ -289,7 +286,7 @@ Desktop-based Library Management System built using Java, JDBC and MySQL.
 
 ## 🚗 Car Rental System
 
-Java-based Car Rental Management System demonstrating object-oriented programming concepts.
+Java-based Car Rental Management System demonstrating OOP concepts.
 
 **Tech Stack**
 
@@ -297,12 +294,13 @@ Java-based Car Rental Management System demonstrating object-oriented programmin
 
 ### Highlights
 
-* 🚘 Vehicle management
-* 👤 Customer management
-* 📅 Rental tracking
-* 💳 Billing system
+- 🚘 Vehicle management
+- 👤 Customer management
+- 📅 Rental tracking
+- 💳 Billing system
 
-**Repository:** [View Project →](https://github.com/PRIYDARSHANGLBITM/Car-Rental-System)
+**Repository:**  
+[View Project →](https://github.com/PRIYDARSHANGLBITM/Car-Rental-System)
 
 </td>
 
@@ -322,12 +320,13 @@ Responsive e-commerce website developed for a local business.
 
 ### Highlights
 
-* 🛍️ Product catalogue
-* 🎨 Modern UI
-* 📱 Responsive design
-* 🛒 E-commerce experience
+- 🛍️ Product catalogue
+- 🎨 Modern UI
+- 📱 Responsive design
+- 🛒 E-commerce experience
 
-**Repository:** [View Project →](https://github.com/PRIYDARSHANGLBITM/Gavai-Swad-Pickle-Store)
+**Repository:**  
+[View Project →](https://github.com/PRIYDARSHANGLBITM/Gavai-Swad-Pickle-Store)
 
 </td>
 
@@ -335,7 +334,7 @@ Responsive e-commerce website developed for a local business.
 
 ## 🧩 LeetCode Solutions
 
-Collection of DSA and competitive programming solutions.
+Collection of DSA and problem-solving solutions.
 
 **Languages**
 
@@ -343,14 +342,16 @@ Collection of DSA and competitive programming solutions.
 
 ### Highlights
 
-* 🧩 Data Structures & Algorithms
-* ⚡ Optimized solutions
-* 📈 Time & space complexity
-* 📚 Regular practice
+- 🧩 Data Structures & Algorithms
+- ⚡ Optimized solutions
+- 📈 Time & space complexity
+- 📚 Regular practice
 
-**Repository:** [View Solutions →](https://github.com/PRIYDARSHANGLBITM/leetcode_solution)
+**Repository:**  
+[View Solutions →](https://github.com/PRIYDARSHANGLBITM/leetcode_solution)
 
-**LeetCode:** [View Profile →](https://leetcode.com/u/priydarshan197358/)
+**LeetCode:**  
+[View Profile →](https://leetcode.com/u/priydarshan197358/)
 
 </td>
 
@@ -369,10 +370,10 @@ Collection of DSA and competitive programming solutions.
 
 ### DSA Repositories
 
-| Repository                                                                          | Description                                         |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [LeetCode Solutions](https://github.com/PRIYDARSHANGLBITM/leetcode_solution)        | Java, C++ and C solutions with optimized approaches |
-| [CDC Problem Solutions](https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions) | Coding Development Cell problem-solving practice    |
+| Repository | Description |
+|---|---|
+| [LeetCode Solutions](https://github.com/PRIYDARSHANGLBITM/leetcode_solution) | Java, C++ and C solutions with optimized approaches |
+| [CDC Problem Solutions](https://github.com/PRIYDARSHANGLBITM/cdc-problem-solutions) | Coding Development Cell problem-solving practice |
 
 ---
 
@@ -426,7 +427,7 @@ Collection of DSA and competitive programming solutions.
 # 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PRIYDARSHANGLBITM&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=PRIYDARSHANGLBITM&label=Profile%20Views&style=for-the-badge" />
 </p>
 
 ---
@@ -447,7 +448,7 @@ Collection of DSA and competitive programming solutions.
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="YOUR_VERCEL_PORTFOLIO_URL">
+<a href="https://my-portfolio-five-chi-32.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 

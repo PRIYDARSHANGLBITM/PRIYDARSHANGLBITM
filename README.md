@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Priy Darshan</h1>
 
 <h3 align="center">
-  B.Tech CSE | SAP Certified – Back-End Developer – ABAP Cloud | Java & DSA | Full Stack | AI
+  B.Tech CSE | SAP Certified – ABAP Cloud & Generative AI | Java & DSA | Backend Development
 </h3>
 
 <p align="center">

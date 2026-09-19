@@ -36,22 +36,19 @@
 
 ---
 
-## 🏆 SAP Certification
+## 🏆 SAP Certifications
 
 ### SAP Certified – Back-End Developer – ABAP Cloud
 
-I am officially **SAP Certified – Back-End Developer – ABAP Cloud**.
+<p align="center">
+  <img src="YOUR_ABAP_CERTIFICATE_IMAGE_URL" width="800"/>
+</p>
 
-**Key Areas:**
+### SAP Certified – SAP Generative AI Developer
 
-- SAP ABAP & ABAP Cloud
-- ABAP SQL
-- CDS Views
-- OData
-- RAP (RESTful Application Programming)
-- SAP S/4HANA
-- Clean Core
-- SAP Development Tools
+<p align="center">
+  <img src="YOUR_GENERATIVE_AI_CERTIFICATE_IMAGE_URL" width="800"/>
+</p>
 
 ---
 

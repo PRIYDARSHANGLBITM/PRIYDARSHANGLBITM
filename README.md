@@ -62,15 +62,12 @@
   <a href="https://my-portfolio-five-chi-32.vercel.app/">
     <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  <a href="https://github.com/PRIYDARSHANGLBITM/MY_PORTFOLIO">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 My portfolio showcases my projects, technical skills, development work and learning journey.
-
-**🌐 Live Portfolio:**  
-https://my-portfolio-five-chi-32.vercel.app/
-
-**💻 Source Code:**  
-https://github.com/PRIYDARSHANGLBITM/MY_PORTFOLIO
 
 ---
 
@@ -150,7 +147,6 @@ https://github.com/PRIYDARSHANGLBITM/MY_PORTFOLIO
 <p>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-6A1B9A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 

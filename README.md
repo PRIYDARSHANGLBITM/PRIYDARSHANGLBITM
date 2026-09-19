@@ -396,7 +396,7 @@ Collection of DSA and problem-solving solutions.
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PRIYDARSHANGLBITM&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYDARSHANGLBITM&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -413,7 +413,7 @@ Collection of DSA and problem-solving solutions.
 # 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRIYDARSHANGLBITM&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---

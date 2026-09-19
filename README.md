@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Priy Darshan</h1>
 
 <h3 align="center">
-  B.Tech CSE | Java & DSA | Full Stack | AI & SAP ABAP
+  B.Tech CSE | SAP Certified – Back-End Developer – ABAP Cloud | Java & DSA | Full Stack | AI
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="https://leetcode.com/u/priydarshan197358/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/priydarshan12345/">
+  <a href="https://www.linkedin.com/in/priy-darshan-10434b329/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -33,6 +33,25 @@
 - 🤖 Exploring **AI/ML, FastAPI and AI-powered applications**
 - 🧩 Working with **SAP ABAP and SAP-based application development**
 - 🎯 Open to **Software Development Internships and Placement Opportunities**
+
+---
+
+## 🏆 SAP Certification
+
+### SAP Certified – Back-End Developer – ABAP Cloud
+
+I am officially **SAP Certified – Back-End Developer – ABAP Cloud**.
+
+**Key Areas:**
+
+- SAP ABAP & ABAP Cloud
+- ABAP SQL
+- CDS Views
+- OData
+- RAP (RESTful Application Programming)
+- SAP S/4HANA
+- Clean Core
+- SAP Development Tools
 
 ---
 
@@ -76,7 +95,7 @@ https://github.com/PRIYDARSHANGLBITM/MY_PORTFOLIO
 <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/priydarshan12345/">
+<a href="https://www.linkedin.com/in/priy-darshan-10434b329/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -440,7 +459,7 @@ Collection of DSA and problem-solving solutions.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/priydarshan12345/">
+<a href="https://www.linkedin.com/in/priy-darshan-10434b329/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

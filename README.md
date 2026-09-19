@@ -40,15 +40,11 @@
 
 ### SAP Certified – Back-End Developer – ABAP Cloud
 
-<p align="center">
-  <img src="YOUR_ABAP_CERTIFICATE_IMAGE_URL" width="800"/>
-</p>
+[![SAP ABAP Certificate](./SAP-ABAP-Certificate.png)](./SAP-ABAP-Certificate.png)
 
 ### SAP Certified – SAP Generative AI Developer
 
-<p align="center">
-  <img src="YOUR_GENERATIVE_AI_CERTIFICATE_IMAGE_URL" width="800"/>
-</p>
+[![SAP Generative AI Certificate](./SAP-Generative-AI-Certificate.png)](./SAP-Generative-AI-Certificate.png)
 
 ---
 

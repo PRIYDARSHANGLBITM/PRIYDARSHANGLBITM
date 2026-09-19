@@ -76,9 +76,9 @@ https://github.com/PRIYDARSHANGLBITM/MY_PORTFOLIO
 
 ## 📄 Resume
 
-<p align="center">
-  <a href="https://github.com/PRIYDARSHANGLBITM/PRIYDARSHANGLBITM/raw/main/Priy_Darshan_Resume.pdf">
-    <img src="https://img.shields.io/badge/📄%20Download%20Resume-4285F4?style=for-the-badge"/>
+<p>
+  <a href="./Priy_Darshan_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20View%20Resume-Priy%20Darshan-181717?style=for-the-badge"/>
   </a>
 </p>
 

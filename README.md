@@ -67,7 +67,7 @@
   </a>
 </p>
 
-My portfolio showcases my projects, technical skills, development work and learning journey.
+My portfolio showcases My Projects, Technical Skills, Development work and Learning journey.
 
 ---
 
